@@ -1,0 +1,15 @@
+
+----------------------- Welcome to User Overview ------------------------
+
+Total Users Registered:                                           1
+Total Tasks Registered:                                           2
+
+------------------------ admin's Task Overview ------------------------
+
+Total Number of Tasks Assigned to User:                           2
+Percentage of Total Tasks Assigned to User:                       100.0 %
+Percentage of Tasks Assigned to User that have been Completed:    50.0 %
+Percentage of Tasks Assigned to User that are Incomplete:         50.0 %
+Percentage of Tasks Assigned to User that are Overdue:            0.0 %
+
+-------------------------------------------------------------------------

@@ -1,0 +1,9 @@
+------------------------ Welcome to Task Overview -----------------------
+Total Tasks:                             2
+Completed Tasks:                         1
+Uncompleted Tasks:                       1
+Overdue Tasks:                           0
+Percentage of Tasks that are incomplete: 50.0 %
+Percentage of Tasks that are overdue:    0.0 %
+
+-------------------------------------------------------------------------
